@@ -8,7 +8,7 @@
     "build": "webpack --config ./scripts/webpack.config.js --progress --mode production",
     "tsc": "tsc"
   },
-  "author": "hyunseok",
+  "author": "kyu",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.11.1",
